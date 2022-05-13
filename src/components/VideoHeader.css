@@ -1,0 +1,11 @@
+.button {
+    color: #ffffff!important;
+    background: #000000!important;
+}
+
+.digital {
+    font-family: 'Segment7Standard';
+    font-weight: normal;
+    font-style: italic;
+    color: #ff0e1e;
+}

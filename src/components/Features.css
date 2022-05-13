@@ -1,0 +1,31 @@
+.htxt {
+    /* color: #ff0e1e; */
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 1em;
+}
+
+.cardbody {
+    background: #000000;
+    background-repeat: repeat-x, no-repeat;
+}
+
+.button {
+    color: #ffffff;
+    background: #000000!important;
+}
+
+.button:hover {
+    color: #000!important;
+    background: transparent!important;
+}
+
+.text {
+    color: #ffffff!important;
+}
+
+.ranxedred {
+    color: #ff0e1e;
+}
